@@ -12,6 +12,8 @@ Raylib must be installed to build the programs, which can be found at: www.rayli
 A basic GUI calculator.
 ## Implemented Features
 The program runs :/
+## Status
+In-Progress...
 ## Files
 ```
 - Makefile : Used by Make to build/remove the program
@@ -20,11 +22,25 @@ The program runs :/
 - button.h : The header file containing all of the information regarding the calculator buttons
 ```
 
+# editor
+## Overview
+A simple text editor.
+## Implemented Features
+The program runs and has some basic typed features
+## Status
+In-Progress...
+## Files
+```
+- text.c
+```
+
 # minesweeper
 ## Description
 A recreation of the classic game Minesweeper.
 ## Implemented Features
 None :(
+## Status
+Drafting
 ## Files
 ```
 -  main.c
@@ -35,6 +51,8 @@ None :(
 A visual representation of various pathfinding algorithms.
 ## Implemented Features
 None :(
+## Status
+Drafting
 ## Files
 ```
 -  main.c
@@ -45,6 +63,8 @@ None :(
 A recreation of the puzzle games generally referred to as Picross (or Nonograms). 
 ## Implemented Features
 None :(
+## Status
+Drafting
 ## Files
 ```
 -  main.c
