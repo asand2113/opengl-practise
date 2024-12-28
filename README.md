@@ -1,11 +1,11 @@
-# raylib-projects
-A collection of programs utilising the Raylib library for educational purposes. These are some experimental programs I made to learn the library, so they might also be good for other beginners to look through for a reference. 
+# opengl-practise
+A collection of programs utilising the OpenGL library for educational and practise purposes. These are some experimental programs I made to learn the library, so they might also be good for other beginners to look through for a reference. 
 
 Each directory from the project's root contains a different program (Each directory has its own main.c and Makefile), as described in the sections below.
 
 Make is used to build the programs.
 
-Raylib must be installed to build the programs, which can be found at: www.raylib.com/
+Currently, the repository is transitioning from Raylib to OpenGL, so Raylib must be installed to build some of the outdated programs, which can be found at: www.raylib.com/
 
 # calculator
 ## Overview
@@ -68,4 +68,16 @@ Drafting
 ## Files
 ```
 -  main.c
+```
+
+# conway
+## Description
+A recreation of the famous Conway's Game of Life cellular automaton. 
+## Implemented Features
+None :(
+## Status
+Drafting
+## Files
+```
+-  N/A
 ```
